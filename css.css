@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HTML Layouts</title>
+	<style type="text/css">
+		nav#global {
+			...
+			}
+		nav#local {
+			...	
+			}
+	</style>
+</head>
+<body>
+	<main>	
+		<nav id="global">
+			...
+		</nav>
+		
+		<nav id="local">
+			...
+		</nav>
+		
+		...
